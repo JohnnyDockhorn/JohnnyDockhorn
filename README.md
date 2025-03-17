@@ -52,6 +52,6 @@ Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no
 
 ## 🌐 **Onde me encontrar**  
 🔗 [LinkedIn](https://br.linkedin.com/in/johnnye31dockhorn)  
-🔗 [GitHub](https://github.com/JohnnyDockhorn/JohnnyDockhorn)    
+🔗 [GitHub](https://github.com/JohnnyDockhorn)    
 
 📩 **Aberto para colaborações, palestras e bate-papos sobre tecnologia!**  
