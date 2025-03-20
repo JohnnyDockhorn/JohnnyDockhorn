@@ -17,8 +17,6 @@ Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no
 
 ## 🎤 **Palestras e Eventos**  
 
-### 🔹 **Organizado por Tema**
-
 #### 🎓 **Lifelong Learning e Aprendizado Contínuo**  
 - 🏫 **Lifelong Learning - Voluntariado IOS** - 11/novembro/2022  
 - 🎓 **Lifelong Learning - Aprendizado Contínuo - Knowledge Week TOTVS** - 25/abril/2023  
