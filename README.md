@@ -47,7 +47,9 @@ Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no
 - 📦 **CT-e: Aplicação no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
 
 #### 🧾 **NFS-e e Integrações Fiscais**  
-- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite** - 05/maio/2025  
+- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite** - 05/maio/2025 
+
+---
 
 ---
 
