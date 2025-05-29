@@ -44,7 +44,10 @@ Passionate about technology, continuous learning, and the impact of communicatio
 - 🛠️ **Microsserviços e a Cultura DevOps - Podcast TOTVS Developers** - 28/outubro/2024  
 
 #### 🚛 **Transporte e Conhecimento Técnico**  
-- 📦 **CT-e: Aplicação no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025  
+- 📦 **CT-e: Aplicação no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
+
+#### 🧾 **NFS-e e Integrações Fiscais**  
+- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite** - 05/maio/2025 
 
 ---
 
