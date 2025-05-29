@@ -43,11 +43,11 @@ Passionate about technology, continuous learning, and the impact of communicatio
 - 🔐 **Secure Code Review - Semana DevSecOps 2024** - 11/abril/2024  
 - 🛠️ **Microsserviços e a Cultura DevOps - Podcast TOTVS Developers** - 28/outubro/2024  
 
-#### 🚛 **Transporte e Conhecimento Técnico**  
-- 📦 **CT-e: Aplicação no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
+#### 🚛 **Conhecimento de Transporte Eletrônico**  
+- 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
 
-#### 🧾 **NFS-e e Integrações Fiscais**  
-- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite** - 05/maio/2025 
+#### 🧾 **Notas Fiscais de Serviço Eletrônico**  
+- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite - Knowledge Week** - 05/maio/2025 
 
 ---
 
