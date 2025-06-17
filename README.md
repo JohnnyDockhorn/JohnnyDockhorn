@@ -2,7 +2,7 @@
 
 🌍 **Prefer English?** [Click here for the English version](README.en.md)  
 
-### 💡 Software Engineer | Palestrante | Especialista em Comunicação & IA 
+### 💡 Software Engineer | Palestrante | Especialista em Comunicação
 
 Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no desenvolvimento de equipes ágeis.   
 🚀 Compartilho conhecimentos sobre **Software Engineering, IA, Comunicação e Produtividade** em eventos, treinamentos e palestras.
