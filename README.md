@@ -47,7 +47,10 @@ Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no
 - 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
 
 #### 🧾 **NFS-e: Notas Fiscais de Serviço Eletrônico**  
-- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite - Knowledge Week** - 05/maio/2025 
+- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite - Knowledge Week** - 05/maio/2025
+
+#### 💼 **Carreira como Engenheiro de Software**
+🎓 **Construindo uma Carreira na Área de Tecnologia + IA** - ETEC Prof° Basilides de Godoy - 10/junho/2025
 
 ---
 
