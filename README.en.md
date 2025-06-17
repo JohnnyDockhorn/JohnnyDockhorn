@@ -2,7 +2,7 @@
 
 🌍 **Prefere Português?** [Clique aqui para a versão em português](README.md)  
 
-### 💡 Software Engineer | Speaker | Communication & AI Specialist  
+### 💡 Software Engineer | Speaker | Communication & Lifelong Learning Specialist
 
 Passionate about technology, continuous learning, and the impact of communication on agile teams.  
 🚀 I share knowledge about **Software Engineering, AI, Communication, and Productivity** at events, training sessions, and conferences.  
