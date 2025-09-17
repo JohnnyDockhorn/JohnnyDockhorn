@@ -45,10 +45,10 @@ Passionate about technology, continuous learning, and the impact of communicatio
 - 🧪 **Código Limpo, Testes Fortes - A Essência do TDD - Knowledge Week TOTVS** - 04/setembro/2025  
 
 #### 🚛 **CT-e: Conhecimento de Transporte Eletrônico**  
-- 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
+- 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week TOTVS** - 05/fevereiro/2025    
 
 #### 🧾 **NFS-e: Notas Fiscais de Serviço Eletrônico**  
-- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite - Knowledge Week** - 05/maio/2025 
+- 📝 **Sincronismo de NFS-e com Prestadores no TOTVS Transmite - Knowledge Week TOTVS** - 05/maio/2025 
 
 #### 💼 **Carreira como Engenheiro de Software**
 - 🎓 **Construindo uma Carreira na Área de Tecnologia + IA - ETEC Prof° Basilides de Godoy** - 10/junho/2025
