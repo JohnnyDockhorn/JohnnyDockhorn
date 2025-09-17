@@ -39,9 +39,10 @@ Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no
 - 🎯 **Como Persuasão e Influência Moldam Equipes Ágeis - Semana da Agilidade 2024** - 16/maio/2024  
 - 🎯 **Como Persuasão e Influência Moldam Equipes Ágeis - TOTVS Developers** - 26/setembro/2024  
 
-#### 🛡️ **Tecnologia e Segurança em Desenvolvimento**  
+#### 🛡️ **Tecnologia e Desenvolvimento de Software**  
 - 🔐 **Secure Code Review - Semana DevSecOps 2024** - 11/abril/2024  
-- 🛠️ **Microsserviços e a Cultura DevOps - Podcast TOTVS Developers** - 28/outubro/2024  
+- 🛠️ **Microsserviços e a Cultura DevOps - Podcast TOTVS Developers** - 28/outubro/2024    
+- 🧪 **Código Limpo, Testes Fortes - A Essência do TDD - Knowledge Week TOTVS** - 04/setembro/2025  
 
 #### 🚛 **CT-e: Conhecimento de Transporte Eletrônico**  
 - 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week** - 05/fevereiro/2025    
