@@ -43,6 +43,7 @@ Passionate about technology, continuous learning, and the impact of communicatio
 - 🔐 **Secure Code Review - Semana DevSecOps 2024** - 11/abril/2024  
 - 🛠️ **Microsserviços e a Cultura DevOps - Podcast TOTVS Developers** - 28/outubro/2024      
 - 🧪 **Código Limpo, Testes Fortes - A Essência do TDD - Knowledge Week TOTVS** - 04/setembro/2025  
+- 🤖 **IA - O futuro do desenvolvimento de software — será o fim do código como a gente conhece? - iMasters Coding The Future (Podcast)** - 07/abril/2026
 
 #### 🚛 **CT-e: Conhecimento de Transporte Eletrônico**  
 - 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week TOTVS** - 05/fevereiro/2025    
@@ -63,5 +64,6 @@ Passionate about technology, continuous learning, and the impact of communicatio
 ## 🌐 **Find me online**  
 🔗 [LinkedIn](https://br.linkedin.com/in/johnnye31dockhorn)  
 🔗 [GitHub](https://github.com/JohnnyDockhorn)  
+🔗 [Medium](https://medium.com/@johnny.dockhorn)    
 
 📩 **Open to collaborations, talks, and discussions on technology!**  
