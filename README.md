@@ -44,6 +44,7 @@ Apaixonado por tecnologia, aprendizado contínuo e o impacto da comunicação no
 - 🛠️ **Microsserviços e a Cultura DevOps - Podcast TOTVS Developers** - 28/outubro/2024    
 - 🧪 **Código Limpo, Testes Fortes - A Essência do TDD - Knowledge Week TOTVS** - 04/setembro/2025
 - 🤖 **IA - O futuro do desenvolvimento de software — será o fim do código como a gente conhece? - iMasters Coding The Future (Podcast)** - 07/abril/2026
+- 📊 **Velocidade é suficiente para medir o uso efetivo de IA em times ágeis? - Semana da Qualidade TOTVS 2026** - 08/setembro/2026
 
 #### 🚛 **CT-e: Conhecimento de Transporte Eletrônico**  
 - 📦 **CT-e: Conceitos Principais e Aplicações no TOTVS Transmite - Knowledge Week TOTVS** - 05/fevereiro/2025    
